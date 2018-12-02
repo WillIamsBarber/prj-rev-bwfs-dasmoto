@@ -1,0 +1,36 @@
+body {
+  font-family: Helvetica, monospace, sans-serif;
+  background-image: url("../css/imgs/background.jpg");
+  background-size: contain;
+}
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("../css/imgs/pattern.jpg");
+  background-size: cover;
+  text-align: center;
+}
+.brushes,
+.frames,
+.paint {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+  background-size: contain;
+}
+.frames {
+  background-color: lightcoral;
+  background-size: cover;
+}
+.paint {
+  background-color: skyblue;
+  background-size: cover;
+}
+h3 {
+  text-decoration-line: underline;
+}
